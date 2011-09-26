@@ -1,0 +1,116 @@
+/* Default styles */
+
+body {
+  margin: 0 auto;
+  width: 1000px;
+  font-family: Palatino, Georgia, "Times New Roman", Times, serif;
+}
+
+a, a:visited {
+  color: #4082C3;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  font-family:"Lucida Grande", Helvetica, sans-serif;
+  margin-top: 0;
+  padding-top: 0;
+  font-size: 2em;
+}
+
+section {
+  margin-top: 7px;
+  margin-bottom: 40px;
+}
+
+/* Header */
+
+header {
+  margin: 20px 0 40px 0;
+  font-size: 1.5em;
+  border-bottom: 1px #666 solid;
+  position: relative;
+  height: 110px;
+}
+
+header h1 {
+  margin-bottom: 0px;
+}
+
+header h2 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: #666;
+  font-variant: small-caps;
+  font-size: 1.4em;
+}
+
+header a, header a:visited, header a:hover {
+  text-decoration: none;
+  color: #000;
+}
+
+header #headings {
+  float: left;
+}
+
+header #uw_logo {
+  padding-top: 10px;
+  float: right;
+}
+
+/* Navigation Bar */
+
+nav {
+  display: block;
+  float: left;
+  font-size: 1.2em;
+  clear: left;
+  width: 220px;
+  text-align: right;
+}
+
+nav ul, nav ol {
+  list-style: none;
+  margin: 0 0;
+  padding: 0 0;
+}
+
+nav li {
+  line-height: 2;
+}
+
+nav li:hover {
+  background-color: #F4F4F4;
+}
+
+nav a {
+  display: block;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+nav a:hover {
+  text-decoration: none;
+}
+
+/* Specific content blocks */
+
+time {
+  color: #666;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  font-size: 0.9em;
+  margin-top: -1.5em;
+  display: block;
+}
+
+div#main {
+  float: right;
+  width: 750px;
+  line-height: 1.5;
+}
