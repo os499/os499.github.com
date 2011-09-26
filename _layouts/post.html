@@ -1,0 +1,8 @@
+---
+layout: default
+---
+<article id="post">
+<h1><a href="{{ post.url }}"> {{ page.title }} </a></h1>
+<time datetime="{{ page.date }}" pubdate> {{ page.date | date_to_string }} </time>
+{{ content }}
+</article>
