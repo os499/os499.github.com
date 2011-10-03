@@ -2,7 +2,6 @@
 
 body {
   margin: 0 auto;
-  width: 1000px;
   font-family: Palatino, Georgia, "Times New Roman", Times, serif;
 }
 
@@ -23,17 +22,21 @@ h1 {
 }
 
 section {
-  margin-top: 7px;
   margin-bottom: 40px;
 }
 
 /* Header */
 
 header {
-  margin: 20px 0 40px 0;
   font-size: 1.5em;
-  border-bottom: 1px #666 solid;
-  height: 110px;
+  margin-bottom: 40px;
+  padding-top: 20px;
+  padding-bottom: 40px;
+  border-bottom: 1px #AAA solid;
+}
+
+header #headings {
+  margin-left: 25%;
 }
 
 header h1 {
@@ -53,24 +56,26 @@ header a, header a:visited, header a:hover {
   color: #000;
 }
 
-header #headings {
-  float: left;
-}
-
 header #uw_logo {
   padding-top: 10px;
+  float: left;
+  width: 23%;
+}
+
+header #uw_logo a {
+  display: block;
   float: right;
+  margin-right: 20px;
 }
 
 /* Navigation Bar */
 
 nav {
   display: block;
-  float: left;
   font-size: 1.2em;
-  clear: left;
-  width: 220px;
   text-align: right;
+  width: 23%;
+  float: left;
 }
 
 nav ul, nav ol {
@@ -84,7 +89,10 @@ nav li {
 }
 
 nav li:hover {
-  background-color: #F4F4F4;
+  border-top: 1px solid #AAA;
+  border-bottom: 1px solid #AAA;
+  margin-top: -1px;
+  margin-bottom: -1px;
 }
 
 nav a {
@@ -95,6 +103,7 @@ nav a {
 
 nav a:hover {
   text-decoration: none;
+  color: #666;
 }
 
 /* Specific content blocks */
@@ -109,7 +118,9 @@ time {
 }
 
 div#main {
-  float: right;
-  width: 750px;
+  width: 75%;
+  margin-left: 25%;
   line-height: 1.5;
+  padding-top: 5px;
+  max-width: 800px;
 }
