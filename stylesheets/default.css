@@ -95,15 +95,16 @@ nav li:hover {
   margin-bottom: -1px;
 }
 
-nav a {
+nav a, nav a:visited {
   display: block;
   padding-right: 10px;
   padding-left: 10px;
+  color: #666;
 }
 
 nav a:hover {
   text-decoration: none;
-  color: #666;
+  color: #4082C3;
 }
 
 /* Specific content blocks */
