@@ -15,5 +15,3 @@ Additionally, the course will offer a **cohesive social and intellectual framewo
 - guest speakers from industry and the open-source community
 
 **Make a lasting impact on society while earning a course credit**.
-
-<!--This is intended to introduce students to the world of open-source software development-->
