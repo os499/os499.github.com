@@ -59,7 +59,7 @@ This course is proposed and organized by students at the University of Waterloo.
 
 The Facebook group, though not extensively promoted, quickly gained recognition and acquired 60 members. We found out about the existing [UCOSP](http://ucosp.ca), but discovered that it was unable to accommodate all the students who expressed an interest in this course. Thus, throughout the Spring 2011 term, student organizers communicated with professors to make this course into a reality.
 
-We are currently working on developing this website and gearing up for a large pilot in the Fall 2011 term that should accommodate all the interested Soft Eng 2014 students, and possibly smaller pilots before then.
+We are currently working on developing this website and gearing up for a large pilot in the Fall 2012 term that should accommodate all the interested Soft Eng 2014 students, and possibly smaller pilots before then.
 
 # TODO
 
