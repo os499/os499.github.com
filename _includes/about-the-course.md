@@ -1,9 +1,11 @@
 
-This is a full-credit course where **students contribute to an open-source software project** during an academic term. Students will have the freedom to:
+A full-credit course where you'll **contribute to an open-source software project** during an academic term.
 
-- choose their project
-- propose and scope their contribution
-- define their own evaluation rubric by setting their own schedule and goals
+You'll have the freedom to:
+
+- choose your project
+- propose and scope your contribution
+- define your own evaluation rubric by setting your own schedule and goals
 
 Additionally, the course will offer a **cohesive social and intellectual framework** that will provide students with:
 
@@ -12,6 +14,6 @@ Additionally, the course will offer a **cohesive social and intellectual framewo
 - weekly instructional lectures
 - guest speakers from industry and the open-source community
 
-Students will take away knowledge that they **made a lasting impact on society while earning a course credit**.
+**Make a lasting impact on society while earning a course credit**.
 
 <!--This is intended to introduce students to the world of open-source software development-->
