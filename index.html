@@ -3,23 +3,23 @@ layout: default
 title: OS 499 - Open Source Software Development Course @ U Waterloo
 ---
 
-<section>
-  In construction!  tl;dr stuff here
-</section>
+<article id='tldr-about-the-course'>
+  <h1>What is this?</h1>
+  {% capture about_the_course %}{% include about-the-course.md %}{% endcapture %}
+  {{ about_the_course | markdownify }}
+  <a href="/general-information">Read more...</a>
+</article>
 
-<section>
-  <h1>Latest News</h1>
+<article id='tldr-rationale'>
+  <h1>Why do this?</h1>
+  {% capture rationale %}{% include rationale.md %}{% endcapture %}
+  {% capture rationale_md %}{{ rationale | markdownify }}{% endcapture %}
+  <ol>
+    {% for reason in rationale_md offset: 1 limit: 8 %}
+      {{ reason }}
+    {% endfor %}
+  </ol>
+  <a href="/general-information#rationale">Read more...</a>
+</article>
 
-  {% for post in site.posts limit:5 %}
-  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-  <time datetime="{{ post.date }}" pubdate> {{ post.date | date_to_string }} </time>
-    {{ post.content }}
-  {% endfor %}
-</section>
-
-<!--<h1>Archives</h1>-->
-<!--<ul class="posts">-->
-  <!--{% for post in site.posts offset:5 %}-->
-    <!--<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>-->
-  <!--{% endfor %}-->
-<!--</ul>-->
+<!-- TODO: Who made this, images, sponsor logos, etc. -->

@@ -19,6 +19,7 @@ h1 {
   margin-top: 0;
   padding-top: 0;
   font-size: 2em;
+  margin-bottom: 0px;
 }
 
 section {
@@ -124,4 +125,20 @@ div#main {
   line-height: 1.5;
   padding-top: 5px;
   max-width: 800px;
+}
+
+#tldr-about-the-course {
+  float: left;
+  width: 380px;
+  margin-right: 20px;
+  padding-right: 19px;
+}
+
+#tldr-rationale {
+  float: left;
+  width: 380px;
+}
+
+#tldr-rationale ol {
+  padding-left: 20px;
 }
