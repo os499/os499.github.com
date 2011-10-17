@@ -37,7 +37,7 @@ header {
 }
 
 header #headings {
-  margin-left: 25%;
+  margin-left: 26%;
 }
 
 header h1 {
@@ -112,8 +112,8 @@ nav a:hover {
 
 #tldr-about-the-course {
   float: left;
-  width: 45%;
-  min-width: 350px;
+  width: 47%;
+  min-width: 320px;
   padding-right: 5%;
 }
 
@@ -123,8 +123,8 @@ nav a:hover {
 
 #tldr-rationale {
   float: left;
-  width: 45%;
-  min-width: 350px;
+  min-width: 320px;
+  width: 47%;
 }
 
 #tldr-rationale ol {
@@ -147,8 +147,8 @@ time {
 }
 
 div#main {
-  width: 75%;
-  margin-left: 25%;
+  width: 70%;
+  margin-left: 26%;
   line-height: 1.5;
   padding-top: 5px;
 }
