@@ -30,7 +30,7 @@ section {
 
 header {
   font-size: 1.5em;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
   padding-top: 20px;
   padding-bottom: 40px;
   border-bottom: 1px #AAA solid;
@@ -108,6 +108,33 @@ nav a:hover {
   color: #4082C3;
 }
 
+/* Front page tldr */
+
+#tldr-about-the-course {
+  float: left;
+  width: 45%;
+  min-width: 350px;
+  padding-right: 5%;
+}
+
+#tldr-about-the-course p:nth-child(2) {
+  font-size: 1.2em;
+}
+
+#tldr-rationale {
+  float: left;
+  width: 45%;
+  min-width: 350px;
+}
+
+#tldr-rationale ol {
+  padding-left: 20px;
+}
+
+#tldr-rationale li {
+  margin-bottom: 0.5em;
+}
+
 /* Specific content blocks */
 
 time {
@@ -124,21 +151,4 @@ div#main {
   margin-left: 25%;
   line-height: 1.5;
   padding-top: 5px;
-  max-width: 800px;
-}
-
-#tldr-about-the-course {
-  float: left;
-  width: 380px;
-  margin-right: 20px;
-  padding-right: 19px;
-}
-
-#tldr-rationale {
-  float: left;
-  width: 380px;
-}
-
-#tldr-rationale ol {
-  padding-left: 20px;
 }
