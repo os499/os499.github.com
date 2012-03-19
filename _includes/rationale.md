@@ -1,4 +1,4 @@
-1. Work on exciting, widely-used projects such as Firefox, Chromium, WebKit, Apache, CPython, WordPress, Khan Academy, LLVM, JQuery, Linux, and more that have real-world impact as part of a standard course in school.
+1. Work on exciting, widely-used projects such as Firefox, Chromium, WebKit, Apache, CPython, WordPress, Khan Academy, LLVM, jQuery, Linux, and more that have real-world impact as part of a standard course in school.
 1. Earn a **credit** and have **course time to work on coding projects of your choice**!
 1. Land an **internship or full-time offer** based on your contributions.
 1. Learn software development practices, tools, and techniques, and have your code reviewed.
