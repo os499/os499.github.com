@@ -4,7 +4,7 @@ title: Resources
 ---
 
 
-## Meta
+# Meta
 
 The evolution of this course:
 
@@ -14,7 +14,7 @@ The evolution of this course:
 - [This site itself open-sourced on GitHub](https://github.com/os499/os499.github.com) (feel free to fork and send pull request!)
 - [Notes from brainstorming session with Professor Rayside and a few SE 2014 students in Jan. 2012](https://docs.google.com/document/d/1zEiXZ6apBswFcBqaFWpF4l5ixKWMjCUlUezJRZdxxwY/edit)
 
-## Open-source projects
+# Open-source projects
 
 If you're looking for open-source projects to contribute to, check out
 
