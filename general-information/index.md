@@ -1,6 +1,6 @@
 ---
 layout: default
-title: General Information - OS 499
+title: General Information
 ---
 
 <h1 id='about-the-course'>About the course</h1>
