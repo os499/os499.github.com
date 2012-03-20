@@ -8,10 +8,11 @@ title: Resources
 
 The evolution of this course:
 
-- random idea that popped into my head while eating dinner
+- random idea that popped into a student's head while eating dinner
 - [Facebook group](http://www.facebook.com/groups/osswaterloo)
 - [Original course proposal (Google Doc)](https://docs.google.com/document/d/1yTSIiCd9qjUNOalFboaW_WIGG-UCvn6pQxSKWUgGP18/edit?authkey=CJmR97UH&authkey=CJmR97UH)
 - [This site itself open-sourced on GitHub](https://github.com/os499/os499.github.com) (feel free to fork and send pull request!)
+- [Notes from brainstorming session with Professor Rayside and a few SE 2014 students in Jan. 2012](https://docs.google.com/document/d/1zEiXZ6apBswFcBqaFWpF4l5ixKWMjCUlUezJRZdxxwY/edit)
 
 ## Open-source projects
 

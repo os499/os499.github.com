@@ -56,3 +56,8 @@ How appropriate for a course on open-source development to be itself open-source
 ## when is this offered
 
 ## am i eligible
+
+
+## Why not SE 498?
+
+TODO (put content from brainstorming google doc)
