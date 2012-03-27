@@ -11,9 +11,9 @@ This is a [student-organized](#history) course where students at the University 
 The main purpose of the course is for students to get involved with an open-source project and make a meaningful contribution during their term. We currently expect students to work on their project for 10-12 weeks, with at least a 10-hour commitment per week. Contributions are very flexible and open-ended &mdash; students can write code, work on bug fixes, improve documentation, and participate in mailing lists.
 
 ## Lectures
-We will have weekly meetings where initial lectures are given by the participating professors. The lead professor will have contributed to open-source software, and will attempt to forge industry collaborations and get media coverage. In later lectures, students will give presentations on the projects that they're working on and present lectures on topics in open-source software development. We will also be inviting guest speakers from industry and the open-source community to our weekly meetings.
+There will be weekly meetings where initial lectures are given by the participating professors. In later lectures, students will give presentations on the projects that they're working on. We'll also be inviting guest speakers from industry and open-source contributors.
 
-Possible lecture topics include OSS history, licenses, major projects, tools, advice for new contributors, and development practices.
+See the [list of possible lecture topics](/course-information#lecture-topics).
 
 ## Evaluation
 At the beginning of the course, students will outline their objectives and set their own deadlines. This will be used as a basis for grading. Since each project will vary and expected student contributions may vary as well, the marking scheme should vary accordingly.

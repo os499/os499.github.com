@@ -9,7 +9,7 @@ TODO: How do students register/enroll?
 
 ## Student organizers
 
-- [David Hu](http://david-hu.com): david@[my domain].com
+- [David Hu](http://david-hu.com) (david@[my domain].com)
 - [Michael Chang](http://azuresky.ca)
 - [Jamie Wong](http://jamie-wong.com)
 

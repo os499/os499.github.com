@@ -61,3 +61,47 @@ How appropriate for a course on open-source development to be itself open-source
 ## Why not SE 498?
 
 TODO (put content from brainstorming google doc)
+- working towrads it
+- if this works, will do it
+- started on the curriculum
+
+
+
+
+
+
+## Brainstorming questions that students might have with Mack
+
+- what are the prereqs?
+- how do i apply
+- what is this course
+- when is it offered?
+- does it have its own course code: cs 499, se 499
+- is everybody meeting toghetr? if so where/when?
+- se 499 marking scheme?
+- how does it differ?
+- find a project? yes or no?
+    - mention khan academy
+    - projects page?
+    - have ppl enter their email to stay up to date? blog feed?
+    - project owner?
+    - student?
+- which term to take? (same as 499: for se, charlie's approving third years)
+- how are ppl finding this website?
+- ATE? does this count as a CS or ECE ATE?
+- can you get paid while doing this
+- which room?
+- who are students?
+    - self motivated
+
+
+- meeting time / room
+- khan acaemy collaboraration/ helping ppl get their proejcts
+- which term to take
+
+
+- what is SE 499
+- differences and similarities with SE 499
+    - consistent markign scheme
+    - consistent structure
+    -
