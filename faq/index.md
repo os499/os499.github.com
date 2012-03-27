@@ -3,23 +3,20 @@ layout: default
 title: OS 499 - FAQ
 ---
 
-This page is still in construction.
+## Who is eligible?
+For our Fall 2012 pilot, we'll primarily be accepting third- and fourth-year Software Engineering students taking SE 499. We also invite any self-motivated students from other faculties via your faculty's individual project course (CS 499, ECE 499, etc.), in the University of Waterloo.
 
+The prerequite for all applicants is that you must have found a project you would like to contribute to and to have built it (ie. be able to run it locally on your computer, whether that means compiling it or running a server locally).
 
+## How do I enroll?
+To apply for our first pilot in the Fall 2012 term, please enroll as you would for your faculty's individual project course (SE 499, CS 499, ECE 499, etc.). This entails finding a faculty supervisor interested in your project or having an area of research related to your project.
 
+## How do I find a project?
+See the [resources page](/resources) as a starting point for finding projects.
 
+The OS 499 organizers will be reaching out to professors for open-source projects they would like to mentor students on. We'll also be seeking industry collaborators in the near future, such as Khan Academy.
 
----
-
-
-
-
-## what course slot would this take?
-
-for software engineers, this would take up an ATE. Know, however, that you can take more than 5 ATEs by taking 6 courses for one term or doing distance ed during co-op terms. Also know there are compelling alternatives to courses offered by Waterloo, for example Stanford's online AI course and Machine Learning courses.
-
-
-# How is this different from [UCOSP](http://ucosp.ca)?
+## How is this different from [UCOSP](http://ucosp.ca)?
 1. Integrated as a CS/SE course, with (short) weekly lectures and a professor and faculty members teaching, providing assistance to students, and grading.
 1. Guest speakers and student presentations at lectures.
 1. Group of students (maybe 10 - 40?) take this together from the same university.
@@ -27,11 +24,17 @@ for software engineers, this would take up an ATE. Know, however, that you can t
 1. Students can choose to contribute individually to projects.
 1. Accepts a much larger group of students from the same university (UCOSP only has the means for 6-8 Waterloo students at the moment).
 
-# How is this different from the Engineering Design Project?
+## How is this different from the Engineering Design Project?
 1. Less restrictions and more flexible.
 1. Depending on the project you get, you don't have to gather requirements, find a customer, find a business case, and such.
 1. This would be strictly contributing to existing OSS, so students develop skills related to understanding and working on a large code base remotely with other developers and how the OSS community works.
 1. Contributions have lasting impact on the real world (not implying that design projects don't).
+
+
+<!--
+## what course slot would this take?
+
+for software engineers, this would take up an ATE. Know, however, that you can take more than 5 ATEs by taking 6 courses for one term or doing distance ed during co-op terms. Also know there are compelling alternatives to courses offered by Waterloo, for example Stanford's online AI course and Machine Learning courses.
 
 ## half-course spread out over two terms?
 
@@ -105,3 +108,5 @@ TODO (put content from brainstorming google doc)
     - consistent markign scheme
     - consistent structure
     -
+
+-->
