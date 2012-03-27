@@ -15,6 +15,7 @@ There will be weekly meetings where initial lectures are given by the participat
 
 See the [list of possible lecture topics](/course-information#lecture-topics).
 
+<!--
 ## Evaluation
 At the beginning of the course, students will outline their objectives and set their own deadlines. This will be used as a basis for grading. Since each project will vary and expected student contributions may vary as well, the marking scheme should vary accordingly.
 
@@ -26,6 +27,7 @@ Depending on the student's situation, evaluation may come from the following sou
 - Peer evaluations (for team projects)
 
 Students will submit the information above with their final report, which has the main goals of summarizing their interactions with the community and whether their contributions have met the goals they set out.
+-->
 
 
 <h1 id='rationale'>Why do this?</h1>
@@ -61,6 +63,7 @@ The Facebook group, though not extensively promoted, quickly gained recognition 
 
 We are currently working on developing this website and gearing up for a large pilot in the Fall 2012 term that should accommodate all the interested Soft Eng 2014 students, and possibly smaller pilots before then.
 
+<!--
 # TODO
 
 - how to enroll?
@@ -72,3 +75,4 @@ Links below
 We have a [Facebook group](http://www.facebook.com/home.php?sk=group_143736372360110&ap=1).
 
 [Original Proposal (Google Doc)](https://docs.google.com/document/d/1yTSIiCd9qjUNOalFboaW_WIGG-UCvn6pQxSKWUgGP18/edit?authkey=CJmR97UH&hl=en_US&authkey=CJmR97UH)
+-->

@@ -3,9 +3,11 @@ layout: default
 title: Contact
 ---
 
+<!--
 TODO: Official contact info
 
 TODO: How do students register/enroll?
+-->
 
 ## Student organizers
 
